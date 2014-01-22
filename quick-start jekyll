@@ -1,0 +1,4 @@
+$ gem install jekyll
+$ jekyll new myblog
+$ cd myblog
+/my-awesome-site $ jekyll serve
