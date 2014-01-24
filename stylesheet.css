@@ -6,6 +6,11 @@
   margin-top: -2.5em;
 }
 
+img {
+	border: 10px solid #CCCCCC;
+}
+
+
 
 .image {
 	position: absolute;
@@ -15,7 +20,6 @@
 	height: 500px;
 	margin-top: -208px; /* Half the height */
 	margin-left: -128px; /* Half the width */
-	border: 10px solid #CCCCCC;
 }
 
 .text {
@@ -26,6 +30,8 @@
 	top: 30px;
 	width: 100%;
 }
+
+
 
 
 
