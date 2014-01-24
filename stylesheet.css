@@ -39,7 +39,7 @@ img {
 	text-align: center;
 	top: 30px;
 	width: 100%;
-	color:white;
+	color: #FFFFFF;
 }
 
 
@@ -68,17 +68,12 @@ span {
 
 
 h1 {
-   border: 10px solid gray80;
    color: #CCCCCC;
 }
 
 
 h2 {
 	color: #CCCCCC;
-	position: absolute;
-	top: 200px;
-	left: 300px;
-	width: 100%;
 }
 
 h3 {
