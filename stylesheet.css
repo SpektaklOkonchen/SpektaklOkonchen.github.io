@@ -1,6 +1,11 @@
+title {
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
 body {
     background-color: #000000;
-    color: white;
+    color: #FFFFFF;
 }
 
 #menu {
@@ -41,8 +46,6 @@ img {
 	top: 30px;
 	width: 100%;
 }
-
-
 
 
 
