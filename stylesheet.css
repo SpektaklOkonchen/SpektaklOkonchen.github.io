@@ -9,14 +9,13 @@
 
 .image {
 	position: relative;
-	width: 100%; /* for IE6 */
 }
 
 .text {
 	left: 0;
 	position: absolute;
 	text-align: center;
-	top: 100px;
+	top: 30px;
 	width: 100%;
 }
 
