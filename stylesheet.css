@@ -1,5 +1,5 @@
 body {
-    background-color: #C6E2FF;
+    background-color: #000000;
 }
 
 #menu {
@@ -39,6 +39,7 @@ img {
 	text-align: center;
 	top: 30px;
 	width: 100%;
+	color:white;
 }
 
 
