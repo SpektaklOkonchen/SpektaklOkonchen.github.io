@@ -16,10 +16,6 @@ body {
   margin-top: -2.5em;
 }
 
-img {
-	border: 10px solid #CCCCCC;
-}
-
 
 .SpektaklOkonchen {
 	line-height: 2em;
@@ -45,7 +41,9 @@ img {
 	margin-left: -128px; /* Half the width */
 }
 
-
+img {
+	border: 10px solid #CCCCCC;
+}
 
 
 <link href='http://fonts.googleapis.com/css?family=Cinzel+Decorative' rel='stylesheet' type='text/css'>
