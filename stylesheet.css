@@ -20,6 +20,12 @@ title {
 }
 
 
+h1 {
+	font-family: 'Codystar', cursive;
+}
+
+
+
 /* FOR NOW
 body {
     background-color: #000000;
@@ -78,30 +84,4 @@ p {
 
 span {
 	font-family:Cursive;
-}
-
-
-h1 {
-   color: #CCCCCC;
-}
-
-
-h2 {
-	color: #CCCCCC;
-}
-
-h3 {
-	color: #8B1C62;
-}
-
-h4 {
-	color: #8B1C62;
-}
-
-h5 {
-	color: #8B1C62;
-}
-
-h6 {
-	color: #8B1C62;
 }
