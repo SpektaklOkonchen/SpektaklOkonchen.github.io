@@ -34,7 +34,7 @@ h4 {
 
 p.menu_pos_fixed {
 	position:fixed;
-	top:30px;
+	bottom:0px;
 	right:5px;
 }
 
