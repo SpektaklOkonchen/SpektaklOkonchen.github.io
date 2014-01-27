@@ -20,6 +20,29 @@ title {
 }
 
 
+#container {
+	height: 400px;
+	width: 400px;
+	position: relative;
+}
+
+#september-2012 {
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+
+#song-lyrics {
+	z-index: 100;
+	position: absolute;
+	color: white;
+	font-size: 24px;
+	font-weight: bold;
+	left: 150px;
+	top: 350px;
+}
+
+
 h1 {
 	font-family: 'Codystar', cursive;
 }
@@ -38,7 +61,8 @@ p.menu_pos_fixed {
 	left:5px;
 }
 
-/* FOR NOW
+/* 
+
 body {
     background-color: #000000;
     color: #FFFFFF;
@@ -57,7 +81,7 @@ body {
 
 .SpektaklOkonchen {
 	line-height: 2em;
-}
+
 
 .center
 	{
@@ -77,24 +101,3 @@ img {
 	border: 10px solid #CCCCCC;
 }
 */
-
-
-<link href='http://fonts.googleapis.com/css?family=Cinzel+Decorative' rel='stylesheet' type='text/css'>
-<style>
-      body {
-        font-family: 'Cinzel Decorative', serif;
-        font-size: 48px;
-      }
-</style>
-
-
-
-p {
-	font-family: Cinzel Decorative;
-	font-size: 48px;
-}
-
-
-span {
-	font-family:Cursive;
-}
