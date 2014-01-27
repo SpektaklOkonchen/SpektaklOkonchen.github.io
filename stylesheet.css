@@ -26,11 +26,6 @@ title {
 	position: relative;
 }
 
-#september-2012 {
-	position: absolute;
-	left: 0;
-	top: 500;
-}
 
 #song-lyrics {
 	z-index: 100;
