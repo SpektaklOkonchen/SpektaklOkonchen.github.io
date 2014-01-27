@@ -4,9 +4,30 @@ title {
 }
 
 body {
+	width: 100%;
+	height: 100%;
+	background-color: #000000;
+	overflow-y; scroll;
+	margin: 0;
+	padding: 0;
+}
+
+#top_bg {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	left: 0;
+	top: 0;
+	overflow: hidden;
+}
+
+/* FOR NOW
+body {
     background-color: #000000;
     color: #FFFFFF;
 }
+
+*/
 
 #menu {
   position: fixed;
