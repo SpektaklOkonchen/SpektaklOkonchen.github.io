@@ -32,6 +32,12 @@ h4 {
 	font-family: 'La Belle Aurore', cursive;
 }
 
+p.menu_pos_fixed {
+	position:fixed;
+	top:30px;
+	right:5px;
+}
+
 /* FOR NOW
 body {
     background-color: #000000;
