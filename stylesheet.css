@@ -80,6 +80,11 @@ title {
 	width: 520px;
 }
 
+.image_bd_k_descript .misha_blin {
+	position: absolute;
+	bottom: 0px;
+	left: 30px;
+}	
 
 h1 {
 	font-family: 'Codystar', cursive;
