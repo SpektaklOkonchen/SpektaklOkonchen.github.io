@@ -14,7 +14,7 @@ title {
 .image_september_2012 {
 	position: relative;
 	top: 50%;
-	left: 0%;
+	left: 50%;
 	margin-top: 480px;
 }
 
@@ -62,7 +62,14 @@ title {
 .image_bd_karaokay {
 	position: relative;
 	top: 50%;
-	left: 0%;
+	left: 50%;
+	margin-top: 10px;
+}
+
+.image_bd_k_descript {
+	position: relative;
+	top: 50%;
+	left: 50%;
 	margin-top: 10px;
 }
 
