@@ -73,6 +73,14 @@ title {
 	margin-top: 10px;
 }
 
+.image_bd_k_descript .bd_descript {
+	position: absolute;
+	top: 352px;
+	left: 20px;
+	width: 290px;
+}
+
+
 h1 {
 	font-family: 'Codystar', cursive;
 }
