@@ -33,7 +33,7 @@ title {
 
 .image_september_2012 .my_first_trip {
 	position: absolute;
-	bottom: 0px;
+	top: 100px;
 	left: 20px;
 	width: 780px;
 }
@@ -43,6 +43,12 @@ title {
 	bottom: 10px;
 	left: 40px;
 	width: 750px;
+}
+
+.image_september_2012 .xoxo {
+	position: absolute;
+	bottom: 3px;
+	left: 20px;
 }
 
 h1 {
