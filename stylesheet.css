@@ -14,7 +14,7 @@ title {
 .image_september_2012 {
 	position: relative;
 	top: 50%;
-	left: 50%;
+	left: 2%;
 	margin-top: 480px;
 }
 
@@ -47,7 +47,7 @@ title {
 
 .image_september_2012 .steve_jobs_quote_connect_dots {
 	position: absolute;
-	bottom: 565px;
+	bottom: 50px;
 	left: 100px;
 	width: 600px;
 	text-align: justify;
@@ -55,21 +55,21 @@ title {
 
 .image_september_2012 .xoxo {
 	position: absolute;
-	bottom: 530px;
+	bottom: 10px;
 	left: 40px;
 }
 
 .image_bd_karaokay {
 	position: relative;
 	top: 50%;
-	left: 50%;
+	left: 2%;
 	margin-top: 10px;
 }
 
 .image_bd_k_descript {
 	position: relative;
 	top: 50%;
-	left: 50%;
+	left: 2%;
 	margin-top: 10px;
 }
 
