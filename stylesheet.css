@@ -75,9 +75,9 @@ title {
 
 .image_bd_k_descript .bd_descript {
 	position: absolute;
-	top: 352px;
-	left: 20px;
-	width: 290px;
+	top: 0px;
+	left: 50px;
+	width: 520px;
 }
 
 
@@ -89,8 +89,12 @@ h3 {
 	font-family: 'Codystar', cursive;
 }
 
-h4 {
+h4.1 {
 	font-family: 'Homemade Apple', cursive;
+}
+
+h4.2 {
+	font-family: 'Buda', cursive;
 }
 
 p.menu_pos_fixed {
