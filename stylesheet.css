@@ -3,6 +3,9 @@ title {
     color: #FFFFFF;
 }
 
+.container {
+	width: 85%;
+}
 .image_silhouette {
 	position: absolute;
 	top: 50%;
@@ -79,18 +82,13 @@ title {
 	left: 50px;
 	width: 520px;
 }
-
 .image_bd_k_descript .misha_blin {
 	position: absolute;
 	bottom: 0px;
 	left: 30px;
 }	
-
-h1 {
-	font-family: 'Codystar', cursive;
-}
-
-h3 {
+/* D.R.Y : Don't Repeat Yourself */
+h1, h3 {
 	font-family: 'Codystar', cursive;
 }
 
